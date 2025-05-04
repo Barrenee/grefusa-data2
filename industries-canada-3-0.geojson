@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 617704922,
+        "building": "yes",
+        "landuse": "industrial",
+        "name": "Sachs Harbour (Ikaahuk)",
+        "operator": "NWT Power Corporation",
+        "plant:method": "combustion",
+        "plant:output:electricity": "795 kW",
+        "plant:source": "diesel",
+        "power": "plant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -125.2533232,
+              71.9862542
+            ],
+            [
+              -125.2530644,
+              71.9860043
+            ],
+            [
+              -125.2527878,
+              71.9860317
+            ],
+            [
+              -125.2530464,
+              71.9862816
+            ],
+            [
+              -125.2533232,
+              71.9862542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 617704927,
+        "landuse": "industrial",
+        "name": "Tankfarm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -125.254021,
+              71.9877883
+            ],
+            [
+              -125.2541182,
+              71.9884804
+            ],
+            [
+              -125.2516667,
+              71.9884281
+            ],
+            [
+              -125.2515972,
+              71.987785
+            ],
+            [
+              -125.254021,
+              71.9877883
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
